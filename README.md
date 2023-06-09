@@ -35,5 +35,5 @@ npm run lint
 ```
 
 #### PS：小熊is pig
-#### PS：小熊is test5
-#### PS：小熊is test666
+#### PS：小熊is test
+#### PS：小熊is demo111222
