@@ -34,7 +34,4 @@ npm run build
 npm run lint
 ```
 
-#### PS：小熊is pig
-#### PS：小熊is test5
-#### PS：小熊is test666
-159
+#### PS：Begin
