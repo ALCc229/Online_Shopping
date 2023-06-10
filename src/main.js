@@ -7,7 +7,7 @@ import App from './App.vue'
 import router from './router'
 
 //测试接口函数
-import {getCategory} from '@/apis/testAPI'
+import {getCategory} from '../src/apis/testAPI'
 getCategory().then(res=> {
     console.log(res)
 })
